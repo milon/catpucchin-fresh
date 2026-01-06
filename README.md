@@ -9,6 +9,20 @@ A collection of Catppuccin color scheme themes for Fresh Editor, featuring all f
 - **Frappé** - A medium-dark theme with cool undertones
 - **Latte** - A light theme perfect for daytime coding
 
+## 📸 Screenshots
+
+### Mocha
+![Mocha Theme](screenshots/mocha.jpg)
+
+### Macchiato
+![Macchiato Theme](screenshots/macchiato.jpg)
+
+### Frappé
+![Frappé Theme](screenshots/frappe.jpg)
+
+### Latte
+![Latte Theme](screenshots/latte.jpg)
+
 ## 📦 Installation
 
 1. Locate your Fresh Editor themes directory (usually in the editor's configuration folder `.config/fresh/themes/`)
