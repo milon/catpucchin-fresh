@@ -1,6 +1,6 @@
 # Catppuccin Theme for Fresh Editor
 
-A collection of Catppuccin color scheme themes for Fresh Editor, featuring all four flavors: Mocha, Macchiato, Frappé, and Latte.
+A collection of Catppuccin color scheme themes for [Fresh Editor](https://github.com/sinelaw/fresh/), featuring all four flavors: Mocha, Macchiato, Frappé, and Latte.
 
 ## 🎨 Flavors
 
